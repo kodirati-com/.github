@@ -1,1 +1,1 @@
-# .github
+# kodirati.com
